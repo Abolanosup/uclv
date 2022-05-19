@@ -1,18 +1,18 @@
 import os
 
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
-API_ID = os.environ.get("API_ID")
-API_HASH = os.environ.get("API_HASH")
+BOT_TOKEN = 5214141627:AAEbh0W6Q07Qz6OMD-o_CrJM2oAgFVCaDvY
+API_ID = os.environ.get("9902519")
+API_HASH = os.environ.get("9d8097d05bbc90a6ed2a7a81abcd4e8a")
 
 
 # DATOS DEL MOODLE
-USUARIO = os.environ.get("USUARIO")
-PASSWORD = os.environ.get("PASSWORD")
-USUARIO_ID = os.environ.get("USUARIO_ID")
-ZIP_MB = os.environ.get("ZIP_MB")
-MOODLE_URL = os.environ.get("MOODLE_URL")
-OWNER = os.environ.get("OWNER")
+USUARIO = os.environ.get("agmorejon@uclv.cu")
+PASSWORD = os.environ.get("Lachel*9145")
+USUARIO_ID = os.environ.get("6246")
+ZIP_MB = os.environ.get("200")
+MOODLE_URL = os.environ.get("moodle.uclv.edu.cu")
+OWNER = os.environ.get("1161231954")
 
 # CUENTA DE MEGA
 GMAIL_MEGA = 'yanco148@gmail.com'
